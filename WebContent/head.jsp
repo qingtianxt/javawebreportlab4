@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1 align="center" style="color: red">欢迎使用课程管理系统</h1>
+	<h2>hello</h2>
 </body>
 </html>
